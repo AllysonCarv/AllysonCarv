@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Gestão de Tecnologia da Informação
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: allyson.lus7@gmail.com
+- 📫 How to reach me: @gmail.com
 
 <!---
 AllysonCarv/AllysonCarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
